@@ -1,0 +1,12 @@
+{
+  "name": "node-repositories",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gabriel Magalhães",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "got": "^11.8.2"
+  },
+  "type": "module"
+}
